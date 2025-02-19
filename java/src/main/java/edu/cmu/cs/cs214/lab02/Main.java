@@ -41,7 +41,7 @@ public class Main {
                     break;
 
                 default:
-                    System.out.println("Buruu utga oruulsan baina.");
+                    System.out.println("Buruu utga oruulsan baina. 1, 2, 3 gesen utga oruulna uu");
                     continue;
             }
 
